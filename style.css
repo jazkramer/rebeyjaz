@@ -1,6 +1,9 @@
 body{
     background-color: rgb(225, 229, 255);
 }
+h1{
+ color: #7a59af;
+}
 .img{
 width: 30%;
 height: 30%;
