@@ -1,9 +1,9 @@
 
 body{
     background-color: rgb(225, 229, 255);
+    position: ;
 }
-
-h1{
+ h1{
  color: #7a59af;
 }
 .img{
@@ -12,4 +12,7 @@ height: 30%;
 }
 h3{
     color: #8c69ff;
+}
+.contenedor{
+    text-align: left;
 }
