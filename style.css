@@ -16,3 +16,19 @@ h3{
 .contenedor{
     text-align: left;
 }
+
+.imagenes-flex {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.imagenes-flex img {
+  max-width: 200px;
+  height: auto;
+  border-radius: 8px;
+}
+nav{
+    color: #7a59af;
+}
